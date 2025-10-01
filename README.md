@@ -1,2 +1,1 @@
-Stocks_Analysis
-Analysis of Tesla and GameStop historical Data
+Analysis of Tesla's and GameStop's Stocks Data
